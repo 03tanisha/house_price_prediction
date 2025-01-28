@@ -1,12 +1,12 @@
-# house_price_prediction
+
 
 # Project Title: House Price Prediction using Machine Learning
 
-# Project Description:
+## Project Description:
 
 This project aims to develop a robust and accurate model for predicting house prices using machine learning techniques. The project leverages a historical housing dataset containing features like area, number of bedrooms, bathrooms, location, and amenities. It involves data preprocessing, feature engineering, model training, and evaluation. The primary goal is to build a model that can reliably estimate house prices based on given features, aiding potential buyers and sellers in making informed decisions.
 
-# Key Features:
+## Key Features:
 
 Data Collection and Preprocessing : Collects historical housing data, cleaning, transforming, and preparing it for model training.
 
